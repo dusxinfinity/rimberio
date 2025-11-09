@@ -1,0 +1,11 @@
+1. https://emmajdevcom.github.io/rimberio/songs-data/albums_rows.json
+2. https://emmajdevcom.github.io/rimberio/songs-data/artists_rows.json
+3. https://emmajdevcom.github.io/rimberio/songs-data/genres_rows.json
+4. https://emmajdevcom.github.io/rimberio/songs-data/languages_rows.json
+5. https://emmajdevcom.github.io/rimberio/songs-data/song_artists_rows.json
+6. https://emmajdevcom.github.io/rimberio/songs-data/songs_rows.json
+7. https://emmajdevcom.github.io/rimberio/songs-data/album_songs_rows.json
+8. https://emmajdevcom.github.io/rimberio/songs-data/playlist_songs_rows.json
+9. https://emmajdevcom.github.io/rimberio/songs-data/playlists_rows.json
+10. https://emmajdevcom.github.io/rimberio/songs-data/top_artists_tracks_playlist_album.json
+11. https://emmajdevcom.github.io/rimberio/songs-data/home-banner.json

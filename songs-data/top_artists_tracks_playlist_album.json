@@ -1,0 +1,87 @@
+{
+  "top_data": {
+    "artists": [
+      {
+        "id": "a8ge0e86-8db7-06a4-845a-9e872050e795",
+        "artist_id": "385b9329-06c6-4a2c-a036-95e5b519b70d",
+        "sl_no": 1
+      },
+      {
+        "id": "b9hf17a9-1c88-17b5-95b6-0f981161f8a0",
+        "artist_id": "3a8a6284-9585-4a8e-9116-7b12f4f35bf7",
+        "sl_no": 2
+      },
+      {
+        "id": "c0id28b0-2d99-28c6-06c7-1g092272g9b1",
+        "artist_id": "a2a5484c-beaf-4291-bca4-260882ffd975",
+        "sl_no": 3
+      },
+      {
+        "id": "d1je39c1-3e0a-39d7-17d8-2h103383h0c2",
+        "artist_id": "96fa84f0-48cd-4718-bcbe-946864529261",
+        "sl_no": 4
+      }
+    ],
+    "songs": [
+      {
+        "id": "e2kf40d2-4f1b-40e8-28e9-3i214494i1d3",
+        "song_id": "fd3186d0-c8c0-4acb-9d38-83b08c4e95f6",
+        "sl_no": 1
+      },
+      {
+        "id": "f3lg51e3-5g2c-51f9-39fa-4j325505j2e4",
+        "song_id": "8bc0ef9a-1491-4058-95b1-6fe47b482d02",
+        "sl_no": 2
+      },
+      {
+        "id": "g4mh62f4-6h3d-62g0-40fb-5k436616k3f5",
+        "song_id": "8d58967b-7097-4e63-a273-92db6d08d430",
+        "sl_no": 3
+      },
+      {
+        "id": "h5ni73g5-7i4e-73h1-51gc-6l547727l4g6",
+        "song_id": "90cfbeee-8f19-49ea-bb9f-c6d52069b745",
+        "sl_no": 4
+      }
+    ],
+    "playlists": [
+      {
+        "id": "i6oj84h6-8j5f-84i2-62hd-7m658838m5h7",
+        "playlist_id": "0716055f-9bb9-4379-9be7-d1fdc8f84aeb",
+        "sl_no": 1
+      },
+      {
+        "id": "j7pk95i7-9k6g-95j3-73ie-8n769949n6i8",
+        "playlist_id": "45154a49-046b-447c-b80a-6a0da8a86445",
+        "sl_no": 2
+      },
+      {
+        "id": "k8ql06j8-0l7h-06k4-84jf-9o870050o7j9",
+        "playlist_id": "a2fe2ec8-5d43-4851-a12d-3f7cc36c14af",
+        "sl_no": 3
+      },
+      {
+        "id": "l9rm17k9-1m8i-17l5-95kg-0p981161p8k0",
+        "playlist_id": "a88e7e86-8db7-46a4-825a-9e872050e795",
+        "sl_no": 4
+      }
+    ],
+    "albums": [
+      {
+        "id": "m0sn28l0-2n9j-28m6-06lh-1q092272q9l1",
+        "album_id": "4a0d82a4-b1ff-41b9-af89-3608096bf173",
+        "sl_no": 1
+      },
+      {
+        "id": "n1to39m1-3o0k-39n7-17mi-2r103383r0m2",
+        "album_id": "cb3bb0d4-e803-4d8b-a981-e310f15bd3a4",
+        "sl_no": 2
+      },
+      {
+        "id": "o2up40n2-4p1l-40o8-28nj-3s214494s1n3",
+        "album_id": "a66252b8-0484-4269-81ae-4b9a88dc1183",
+        "sl_no": 3
+      }
+    ]
+  }
+}
